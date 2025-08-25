@@ -76,17 +76,16 @@ cd client
 npm start
 Open http://localhost:3000 to view the app.
 
-📸 Screenshots
-(Add screenshots of your app UI here for better presentation)
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a PR.
 
+
 📜 License
 This project is licensed under the MIT License.
 
+
 👨‍💻 Author
 Surya Kumar V
-
 📧 suryakumarv20@gmail.com
